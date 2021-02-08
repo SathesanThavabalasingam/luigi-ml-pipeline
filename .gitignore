@@ -1,0 +1,5 @@
+# Exclude files #
+*.pickle
+*.pkl
+*.csv
+**/*.ipynb_checkpoints/
