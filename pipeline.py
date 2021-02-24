@@ -1,4 +1,3 @@
-""" Rubikloud take home problem """
 import luigi
 import pandas as pd
 import numpy as np
